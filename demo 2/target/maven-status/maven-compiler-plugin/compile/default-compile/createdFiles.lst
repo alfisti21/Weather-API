@@ -1,0 +1,8 @@
+com\example\demo2\TemperaturesNotFoundAdvice.class
+com\example\demo2\TemperaturesNotFoundException.class
+com\example\demo2\AdviceRestController.class
+com\example\demo2\Temperatures.class
+com\example\demo2\LoadDatabase.class
+com\example\demo2\TemperaturesController.class
+com\example\demo2\TemperaturesApplication.class
+com\example\demo2\TemperaturesRepository.class
